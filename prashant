@@ -1,0 +1,9 @@
+using system;
+class prashant 
+{
+public static void main()
+ {
+ Console.WriteLine("I AM LEGEND AND THE REASON BEING "GOS IS WITH ME");
+ }
+}
+ 
